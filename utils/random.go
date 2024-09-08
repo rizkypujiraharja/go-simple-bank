@@ -23,7 +23,7 @@ func RandomString(n int) string {
 }
 
 func RandomOwner() string {
-	return RandomString(6)
+	return RandomString(24)
 }
 
 func RandomMoney() int64 {
